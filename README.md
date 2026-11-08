@@ -8,7 +8,7 @@ this project is to build and compare five classical classification models that p
 the applicant's profile and loan details, whether the applicant will **default (1)** or
 **repay (0)**, and to present the trained models in an interactive Streamlit web app.
 
-## 2. Dataset Description  [1 mark]
+## 2. Dataset Description  
 
 | Item | Details |
 | --- | --- |
@@ -58,7 +58,7 @@ project-folder/
 |   `-- best_params.json
 ```
 
-## 3. Models Used  [5 marks]
+## 3. Models Used  
 
 All five models were trained on the same training split and evaluated on the same 200-row test set.
 Precision, Recall, F1 are reported for the positive class (default = 1).
@@ -75,7 +75,7 @@ Selected hyper-parameters: Logistic Regression C = 0.1; Decision Tree max_depth 
 min_samples_leaf = 10; KNN k = 21 with distance weighting; Gaussian Naive Bayes
 var_smoothing = 0.1; SVM (RBF kernel) C = 10, gamma = 0.01.
 
-### Observations on model performance  [3 marks]
+### Observations on model performance  
 
 | ML Model Name | Observation about model performance |
 | --- | --- |
