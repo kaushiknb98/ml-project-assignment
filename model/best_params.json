@@ -1,0 +1,20 @@
+{
+  "logistic_regression": {
+    "clf__C": 0.1
+  },
+  "decision_tree": {
+    "clf__max_depth": 7,
+    "clf__min_samples_leaf": 10
+  },
+  "knn": {
+    "clf__n_neighbors": 21,
+    "clf__weights": "distance"
+  },
+  "naive_bayes": {
+    "clf__var_smoothing": 0.1
+  },
+  "svm": {
+    "clf__C": 10,
+    "clf__gamma": 0.01
+  }
+}

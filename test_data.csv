@@ -1,0 +1,201 @@
+checking_balance,months_loan_duration,credit_history,purpose,amount,savings_balance,employment_length,installment_rate,personal_status,other_debtors,residence_history,property,age,installment_plan,housing,existing_credits,dependents,telephone,foreign_worker,job,default
+unknown,6,repaid,furniture,4611,< 100 DM,0 - 1 yrs,1,female,none,4,building society savings,32,none,own,1,1,none,yes,skilled employee,1
+unknown,18,critical,car (used),3850,< 100 DM,4 - 7 yrs,3,single male,none,1,other,27,none,own,2,1,none,yes,skilled employee,0
+unknown,42,repaid,radio/tv,7166,unknown,4 - 7 yrs,2,married male,none,4,building society savings,29,none,rent,1,1,yes,yes,skilled employee,0
+unknown,12,delayed,repairs,1555,> 1000 DM,> 7 yrs,4,single male,none,4,unknown/none,55,none,for free,2,2,none,yes,skilled employee,1
+< 0 DM,12,repaid,furniture,1289,< 100 DM,1 - 4 yrs,4,single male,guarantor,1,building society savings,21,none,own,1,1,none,yes,unskilled resident,0
+1 - 200 DM,24,fully repaid this bank,education,1837,< 100 DM,4 - 7 yrs,4,female,none,4,unknown/none,34,bank,for free,1,1,none,yes,unskilled resident,1
+1 - 200 DM,18,repaid,car (new),6260,< 100 DM,4 - 7 yrs,3,single male,none,3,real estate,28,none,rent,1,1,none,yes,unskilled resident,0
+> 200 DM,24,critical,furniture,3617,unknown,> 7 yrs,4,single male,co-applicant,4,unknown/none,20,none,rent,2,1,none,yes,skilled employee,0
+< 0 DM,12,repaid,furniture,708,< 100 DM,1 - 4 yrs,2,single male,guarantor,3,building society savings,38,none,own,1,2,none,yes,unskilled resident,0
+< 0 DM,36,repaid,car (used),5493,< 100 DM,> 7 yrs,2,single male,none,4,unknown/none,42,none,for free,1,2,none,yes,skilled employee,0
+unknown,18,repaid,furniture,1984,< 100 DM,1 - 4 yrs,4,single male,none,4,unknown/none,47,bank,for free,2,1,none,yes,skilled employee,0
+1 - 200 DM,6,repaid,radio/tv,753,< 100 DM,1 - 4 yrs,2,female,guarantor,3,real estate,64,none,own,1,1,none,yes,skilled employee,0
+< 0 DM,12,repaid,furniture,1262,unknown,> 7 yrs,2,divorced male,none,4,building society savings,49,none,own,1,1,yes,yes,unskilled resident,0
+1 - 200 DM,24,repaid,car (used),11560,< 100 DM,1 - 4 yrs,1,female,none,4,other,23,none,rent,2,1,none,yes,mangement self-employed,1
+unknown,27,repaid,repairs,5190,unknown,> 7 yrs,4,single male,none,4,building society savings,48,none,own,4,2,yes,yes,skilled employee,0
+< 0 DM,36,delayed,business,2145,< 100 DM,4 - 7 yrs,2,single male,none,1,other,24,none,own,2,1,yes,yes,skilled employee,1
+unknown,12,repaid,radio/tv,1493,< 100 DM,0 - 1 yrs,4,female,none,3,other,34,none,own,1,2,none,yes,skilled employee,0
+1 - 200 DM,7,repaid,radio/tv,2415,< 100 DM,1 - 4 yrs,3,single male,guarantor,2,real estate,34,none,own,1,1,none,yes,skilled employee,0
+1 - 200 DM,36,critical,car (new),2820,< 100 DM,0 - 1 yrs,4,divorced male,none,4,other,27,none,own,2,1,none,yes,skilled employee,1
+1 - 200 DM,48,repaid,radio/tv,10961,> 1000 DM,4 - 7 yrs,1,single male,co-applicant,2,unknown/none,27,bank,own,2,1,yes,yes,skilled employee,1
+< 0 DM,27,critical,business,2442,< 100 DM,> 7 yrs,4,single male,none,4,other,43,stores,own,4,2,yes,yes,mangement self-employed,0
+unknown,24,delayed,car (new),2032,< 100 DM,> 7 yrs,4,single male,none,4,unknown/none,60,none,for free,2,1,yes,yes,skilled employee,0
+< 0 DM,12,repaid,furniture,1657,< 100 DM,1 - 4 yrs,2,single male,none,2,real estate,27,none,own,1,1,none,yes,skilled employee,0
+< 0 DM,48,critical,car (used),6143,< 100 DM,> 7 yrs,4,female,none,4,unknown/none,58,stores,for free,2,1,none,yes,unskilled resident,1
+unknown,9,critical,car (new),1224,< 100 DM,1 - 4 yrs,3,single male,none,1,real estate,30,none,own,2,1,none,yes,skilled employee,0
+< 0 DM,18,repaid,radio/tv,1882,< 100 DM,1 - 4 yrs,4,female,none,4,other,25,bank,rent,2,1,none,yes,skilled employee,1
+> 200 DM,10,repaid,domestic appliances,1225,< 100 DM,1 - 4 yrs,2,single male,none,2,other,37,none,own,1,1,yes,yes,skilled employee,0
+unknown,60,critical,car (new),13756,unknown,> 7 yrs,2,single male,none,4,unknown/none,63,bank,for free,1,1,yes,yes,mangement self-employed,0
+unknown,12,critical,radio/tv,1291,< 100 DM,1 - 4 yrs,4,female,none,2,building society savings,35,none,own,2,1,none,yes,skilled employee,0
+unknown,24,critical,furniture,5150,< 100 DM,> 7 yrs,4,single male,none,4,other,33,none,own,1,1,yes,yes,skilled employee,0
+unknown,24,critical,car (used),6842,unknown,1 - 4 yrs,2,single male,none,4,building society savings,46,none,own,2,2,yes,yes,mangement self-employed,0
+< 0 DM,24,fully repaid this bank,car (new),1193,< 100 DM,unemployed,1,female,co-applicant,4,unknown/none,29,none,rent,2,1,none,yes,unemployed non-resident,1
+1 - 200 DM,18,repaid,education,1239,unknown,1 - 4 yrs,4,single male,none,4,unknown/none,61,none,for free,1,1,none,yes,skilled employee,0
+1 - 200 DM,30,fully repaid,business,4280,101 - 500 DM,1 - 4 yrs,4,female,none,4,other,26,none,rent,2,1,none,yes,unskilled resident,1
+< 0 DM,18,repaid,car (new),2249,101 - 500 DM,4 - 7 yrs,4,single male,none,3,other,30,none,own,1,2,yes,yes,mangement self-employed,0
+unknown,30,repaid,radio/tv,1867,unknown,> 7 yrs,4,single male,none,4,other,58,none,own,1,1,yes,yes,skilled employee,0
+1 - 200 DM,12,critical,car (new),958,< 100 DM,4 - 7 yrs,2,single male,none,3,real estate,47,none,own,2,2,none,yes,unskilled resident,0
+< 0 DM,12,critical,radio/tv,385,< 100 DM,4 - 7 yrs,4,female,none,3,real estate,58,none,own,4,1,yes,yes,unskilled resident,0
+unknown,15,repaid,furniture,2708,< 100 DM,0 - 1 yrs,2,single male,none,3,building society savings,27,bank,own,2,1,none,yes,unskilled resident,0
+< 0 DM,48,repaid,car (used),10297,< 100 DM,4 - 7 yrs,4,single male,none,4,unknown/none,39,stores,for free,3,2,yes,yes,skilled employee,1
+> 200 DM,24,critical,car (new),1344,unknown,4 - 7 yrs,4,single male,none,2,real estate,37,bank,own,2,2,none,yes,unskilled resident,1
+1 - 200 DM,18,delayed,business,2427,unknown,> 7 yrs,4,single male,none,2,building society savings,42,none,own,2,1,none,yes,skilled employee,0
+unknown,48,repaid,radio/tv,10222,unknown,4 - 7 yrs,4,single male,none,3,other,37,stores,own,1,1,yes,yes,skilled employee,0
+unknown,24,delayed,furniture,4151,101 - 500 DM,1 - 4 yrs,2,single male,none,3,building society savings,35,none,own,2,1,none,yes,skilled employee,0
+< 0 DM,30,repaid,furniture,6350,unknown,> 7 yrs,4,single male,none,4,building society savings,31,none,own,1,1,none,yes,skilled employee,1
+1 - 200 DM,24,critical,car (used),7758,> 1000 DM,> 7 yrs,2,female,none,4,unknown/none,29,none,rent,1,1,none,yes,skilled employee,0
+< 0 DM,12,repaid,education,1200,unknown,1 - 4 yrs,4,female,none,4,building society savings,23,bank,rent,1,1,yes,yes,skilled employee,0
+< 0 DM,9,repaid,furniture,2136,< 100 DM,1 - 4 yrs,3,single male,none,2,real estate,25,none,own,1,1,none,yes,skilled employee,0
+unknown,12,repaid,car (used),4675,unknown,0 - 1 yrs,1,female,none,4,other,20,none,rent,1,1,none,yes,skilled employee,0
+unknown,36,repaid,car (used),4686,< 100 DM,1 - 4 yrs,2,single male,none,2,unknown/none,32,none,for free,1,1,yes,yes,mangement self-employed,0
+< 0 DM,16,critical,car (new),2625,< 100 DM,> 7 yrs,2,single male,guarantor,4,building society savings,43,bank,rent,1,1,yes,yes,skilled employee,1
+< 0 DM,9,repaid,car (new),1422,< 100 DM,0 - 1 yrs,3,single male,none,2,unknown/none,27,none,for free,1,1,yes,yes,mangement self-employed,1
+1 - 200 DM,18,fully repaid,furniture,3244,< 100 DM,1 - 4 yrs,1,female,none,4,other,33,bank,own,2,1,yes,yes,skilled employee,0
+> 200 DM,10,repaid,car (new),3949,< 100 DM,0 - 1 yrs,1,single male,guarantor,1,building society savings,37,none,own,1,2,none,yes,unskilled resident,0
+< 0 DM,42,critical,repairs,3394,< 100 DM,unemployed,4,single male,co-applicant,4,other,65,none,own,2,1,none,yes,unemployed non-resident,0
+unknown,9,repaid,radio/tv,2753,101 - 500 DM,> 7 yrs,3,single male,co-applicant,4,other,35,none,own,1,1,yes,yes,skilled employee,0
+unknown,6,delayed,radio/tv,932,< 100 DM,1 - 4 yrs,3,female,none,2,real estate,24,none,own,1,1,none,yes,skilled employee,0
+< 0 DM,12,critical,car (new),3499,< 100 DM,1 - 4 yrs,3,female,co-applicant,2,real estate,29,none,own,2,1,none,yes,skilled employee,1
+unknown,18,critical,radio/tv,1149,> 1000 DM,1 - 4 yrs,4,single male,none,3,real estate,46,none,own,2,1,none,yes,skilled employee,0
+1 - 200 DM,36,fully repaid this bank,domestic appliances,3990,unknown,0 - 1 yrs,3,female,none,2,unknown/none,29,bank,own,1,1,none,yes,unemployed non-resident,0
+unknown,9,repaid,furniture,2301,101 - 500 DM,0 - 1 yrs,2,female,none,4,building society savings,22,none,rent,1,1,none,yes,skilled employee,0
+1 - 200 DM,15,fully repaid,car (new),1778,< 100 DM,0 - 1 yrs,2,female,none,1,real estate,26,none,rent,2,1,none,yes,unemployed non-resident,1
+unknown,48,critical,business,7629,unknown,> 7 yrs,4,divorced male,none,2,other,46,bank,own,2,2,none,yes,mangement self-employed,0
+unknown,9,critical,radio/tv,3074,unknown,1 - 4 yrs,1,single male,none,2,real estate,33,none,own,2,2,none,yes,skilled employee,0
+unknown,24,critical,car (used),2197,unknown,4 - 7 yrs,4,single male,none,4,other,43,none,own,2,2,yes,yes,skilled employee,0
+1 - 200 DM,30,repaid,radio/tv,1715,unknown,1 - 4 yrs,4,female,none,1,other,26,none,own,1,1,none,yes,skilled employee,0
+unknown,60,repaid,car (new),10366,< 100 DM,> 7 yrs,2,single male,none,4,building society savings,42,none,own,1,1,yes,yes,mangement self-employed,0
+1 - 200 DM,24,repaid,furniture,3069,101 - 500 DM,> 7 yrs,4,single male,none,4,unknown/none,30,none,for free,1,1,none,yes,skilled employee,0
+1 - 200 DM,24,delayed,furniture,2333,unknown,0 - 1 yrs,4,single male,none,2,building society savings,29,bank,own,1,1,none,yes,unskilled resident,0
+unknown,24,repaid,car (used),5433,unknown,unemployed,2,female,none,4,building society savings,26,none,rent,1,1,yes,yes,mangement self-employed,0
+unknown,21,repaid,car (used),2476,unknown,> 7 yrs,4,single male,none,4,real estate,46,none,own,1,1,yes,yes,mangement self-employed,0
+unknown,6,critical,car (new),250,> 1000 DM,1 - 4 yrs,2,female,none,2,real estate,41,bank,own,2,1,none,yes,unskilled resident,0
+unknown,24,critical,car (new),1940,> 1000 DM,> 7 yrs,4,single male,none,4,real estate,60,none,own,1,1,yes,yes,skilled employee,0
+1 - 200 DM,24,delayed,furniture,2064,< 100 DM,unemployed,3,female,none,2,building society savings,34,none,own,1,1,yes,yes,mangement self-employed,1
+unknown,24,repaid,radio/tv,1901,101 - 500 DM,1 - 4 yrs,4,single male,none,4,other,29,none,rent,1,1,yes,yes,mangement self-employed,0
+unknown,24,repaid,business,4591,> 1000 DM,1 - 4 yrs,2,single male,none,3,building society savings,54,none,own,3,1,yes,yes,mangement self-employed,1
+1 - 200 DM,18,repaid,furniture,3001,< 100 DM,4 - 7 yrs,2,female,none,4,real estate,40,none,rent,1,1,none,yes,skilled employee,0
+unknown,12,repaid,radio/tv,2171,< 100 DM,0 - 1 yrs,2,female,none,2,other,29,bank,own,1,1,none,yes,skilled employee,0
+unknown,36,delayed,business,9572,< 100 DM,0 - 1 yrs,1,divorced male,none,1,other,28,none,own,2,1,none,yes,skilled employee,1
+unknown,24,fully repaid this bank,business,1559,< 100 DM,4 - 7 yrs,4,single male,none,4,other,50,bank,own,1,1,yes,yes,skilled employee,0
+unknown,12,critical,radio/tv,618,< 100 DM,> 7 yrs,4,single male,none,4,real estate,56,none,own,1,1,none,yes,skilled employee,0
+1 - 200 DM,72,repaid,radio/tv,5595,101 - 500 DM,1 - 4 yrs,2,married male,none,2,other,24,none,own,1,1,none,yes,skilled employee,1
+unknown,12,repaid,radio/tv,3077,< 100 DM,1 - 4 yrs,2,single male,none,4,other,52,none,own,1,1,yes,yes,skilled employee,0
+1 - 200 DM,24,repaid,radio/tv,2039,< 100 DM,0 - 1 yrs,1,married male,none,1,building society savings,22,none,own,1,1,yes,yes,skilled employee,1
+unknown,24,critical,car (new),2463,101 - 500 DM,4 - 7 yrs,4,married male,none,3,building society savings,27,none,own,2,1,yes,yes,skilled employee,0
+1 - 200 DM,12,repaid,radio/tv,1331,< 100 DM,0 - 1 yrs,2,single male,none,1,other,22,stores,own,1,1,none,yes,skilled employee,1
+1 - 200 DM,12,repaid,car (new),1318,> 1000 DM,> 7 yrs,4,single male,none,4,real estate,54,none,own,1,1,yes,yes,skilled employee,0
+1 - 200 DM,30,repaid,car (new),2150,< 100 DM,1 - 4 yrs,4,female,guarantor,2,unknown/none,24,bank,own,1,1,none,yes,skilled employee,1
+1 - 200 DM,18,critical,radio/tv,1245,< 100 DM,1 - 4 yrs,4,married male,none,2,other,33,none,own,1,1,none,yes,skilled employee,1
+< 0 DM,12,repaid,radio/tv,727,101 - 500 DM,0 - 1 yrs,4,married male,none,3,unknown/none,33,none,own,1,1,yes,yes,unskilled resident,1
+< 0 DM,36,repaid,car (used),8229,< 100 DM,1 - 4 yrs,2,single male,none,2,building society savings,26,none,own,1,2,none,yes,skilled employee,1
+1 - 200 DM,60,delayed,radio/tv,9157,unknown,1 - 4 yrs,2,single male,none,2,unknown/none,27,none,for free,1,1,none,yes,mangement self-employed,0
+1 - 200 DM,36,repaid,repairs,2384,< 100 DM,0 - 1 yrs,4,single male,none,1,unknown/none,33,none,rent,1,1,none,yes,unskilled resident,1
+unknown,12,repaid,car (new),640,< 100 DM,1 - 4 yrs,4,divorced male,none,2,real estate,49,none,own,1,1,none,yes,unskilled resident,0
+unknown,12,repaid,car (new),2133,unknown,> 7 yrs,4,female,none,4,unknown/none,52,none,for free,1,1,yes,yes,mangement self-employed,0
+< 0 DM,21,fully repaid this bank,car (new),1647,unknown,1 - 4 yrs,4,single male,none,2,building society savings,40,none,own,2,2,none,yes,unskilled resident,1
+1 - 200 DM,6,fully repaid this bank,education,433,> 1000 DM,0 - 1 yrs,4,female,none,2,building society savings,24,bank,rent,1,2,none,yes,skilled employee,1
+unknown,24,critical,radio/tv,5103,< 100 DM,0 - 1 yrs,3,married male,none,3,unknown/none,47,none,for free,3,1,yes,yes,skilled employee,0
+< 0 DM,21,critical,car (new),1602,< 100 DM,> 7 yrs,4,married male,none,3,other,30,none,own,2,1,yes,yes,skilled employee,0
+unknown,24,critical,radio/tv,2223,101 - 500 DM,> 7 yrs,4,single male,none,4,building society savings,52,bank,own,2,1,none,yes,skilled employee,0
+1 - 200 DM,12,critical,car (new),2366,501 - 1000 DM,4 - 7 yrs,3,divorced male,none,3,other,36,none,own,1,1,yes,yes,mangement self-employed,0
+< 0 DM,21,critical,car (new),571,< 100 DM,> 7 yrs,4,single male,none,4,real estate,65,none,own,2,1,none,yes,skilled employee,0
+unknown,24,repaid,retraining,937,< 100 DM,0 - 1 yrs,4,married male,none,3,other,27,none,own,2,1,none,yes,unskilled resident,0
+< 0 DM,9,critical,car (new),2799,< 100 DM,1 - 4 yrs,2,single male,none,2,real estate,36,none,rent,2,2,none,yes,skilled employee,0
+unknown,7,delayed,radio/tv,846,unknown,> 7 yrs,3,single male,none,4,unknown/none,36,none,for free,1,1,none,yes,skilled employee,0
+> 200 DM,6,delayed,radio/tv,683,< 100 DM,0 - 1 yrs,2,female,none,1,building society savings,29,bank,own,1,1,none,yes,skilled employee,0
+< 0 DM,6,repaid,furniture,1374,< 100 DM,1 - 4 yrs,1,single male,none,2,real estate,36,bank,own,1,1,yes,yes,unskilled resident,0
+unknown,11,critical,car (new),1393,< 100 DM,0 - 1 yrs,4,female,none,4,other,35,none,own,2,1,none,yes,mangement self-employed,0
+< 0 DM,48,repaid,car (used),4788,< 100 DM,4 - 7 yrs,4,single male,none,3,building society savings,26,none,own,1,2,none,yes,skilled employee,0
+unknown,24,critical,car (new),2022,< 100 DM,1 - 4 yrs,4,female,none,4,other,37,none,own,1,1,yes,yes,skilled employee,0
+> 200 DM,12,fully repaid this bank,radio/tv,409,> 1000 DM,1 - 4 yrs,3,female,none,3,real estate,42,none,rent,2,1,none,yes,skilled employee,0
+unknown,4,critical,car (new),1455,< 100 DM,4 - 7 yrs,2,single male,none,1,real estate,42,none,own,3,2,none,yes,unskilled resident,0
+unknown,10,critical,furniture,2146,< 100 DM,0 - 1 yrs,1,female,none,3,real estate,23,none,rent,2,1,none,yes,skilled employee,0
+> 200 DM,12,repaid,furniture,1474,< 100 DM,0 - 1 yrs,4,female,none,1,building society savings,33,bank,own,1,1,yes,yes,mangement self-employed,0
+< 0 DM,24,repaid,car (used),2924,< 100 DM,1 - 4 yrs,3,single male,guarantor,4,unknown/none,63,bank,own,1,2,yes,yes,skilled employee,0
+< 0 DM,15,critical,furniture,1433,< 100 DM,1 - 4 yrs,4,female,none,3,building society savings,25,none,rent,2,1,none,yes,skilled employee,0
+< 0 DM,15,repaid,radio/tv,1053,< 100 DM,0 - 1 yrs,4,married male,none,2,real estate,27,none,own,1,1,none,no,skilled employee,0
+1 - 200 DM,48,repaid,car (new),6560,101 - 500 DM,4 - 7 yrs,3,single male,none,2,building society savings,24,none,own,1,1,none,yes,skilled employee,1
+< 0 DM,30,repaid,furniture,3108,< 100 DM,0 - 1 yrs,2,divorced male,none,4,building society savings,31,none,own,1,1,none,yes,unskilled resident,1
+unknown,6,fully repaid this bank,radio/tv,1750,501 - 1000 DM,> 7 yrs,2,single male,none,4,building society savings,45,bank,own,1,2,none,yes,unskilled resident,0
+1 - 200 DM,36,critical,radio/tv,2337,< 100 DM,> 7 yrs,4,single male,none,4,real estate,36,none,own,1,1,none,yes,skilled employee,0
+1 - 200 DM,30,fully repaid this bank,furniture,3496,> 1000 DM,1 - 4 yrs,4,single male,none,2,other,34,stores,own,1,2,yes,yes,skilled employee,0
+unknown,30,critical,radio/tv,4530,< 100 DM,4 - 7 yrs,4,female,none,4,other,26,none,rent,1,1,yes,yes,mangement self-employed,0
+< 0 DM,30,critical,car (used),6187,101 - 500 DM,4 - 7 yrs,1,married male,none,4,other,24,none,rent,2,1,none,yes,skilled employee,0
+1 - 200 DM,24,repaid,radio/tv,3758,501 - 1000 DM,unemployed,1,female,none,4,unknown/none,23,none,rent,1,1,none,yes,unemployed non-resident,0
+> 200 DM,6,repaid,furniture,2116,< 100 DM,1 - 4 yrs,2,single male,none,2,real estate,41,none,own,1,1,yes,yes,skilled employee,0
+1 - 200 DM,30,repaid,radio/tv,2991,unknown,> 7 yrs,2,female,none,4,other,25,none,own,1,1,none,yes,skilled employee,0
+1 - 200 DM,18,repaid,car (new),1042,unknown,1 - 4 yrs,4,female,none,2,building society savings,33,none,own,1,1,none,yes,skilled employee,1
+unknown,12,critical,radio/tv,2331,unknown,> 7 yrs,1,single male,co-applicant,4,real estate,49,none,own,1,1,yes,yes,skilled employee,0
+< 0 DM,36,repaid,furniture,3620,< 100 DM,1 - 4 yrs,1,single male,guarantor,2,building society savings,37,none,own,1,2,none,yes,skilled employee,0
+< 0 DM,18,fully repaid this bank,radio/tv,1940,< 100 DM,0 - 1 yrs,3,single male,co-applicant,4,unknown/none,36,bank,for free,1,1,yes,yes,mangement self-employed,0
+unknown,36,critical,car (new),7855,< 100 DM,1 - 4 yrs,4,female,none,2,real estate,25,stores,own,2,1,yes,yes,skilled employee,1
+unknown,15,critical,radio/tv,1829,< 100 DM,> 7 yrs,4,single male,none,4,other,46,none,own,2,1,yes,yes,skilled employee,0
+1 - 200 DM,48,fully repaid this bank,business,6416,< 100 DM,> 7 yrs,4,female,none,3,unknown/none,59,none,rent,1,1,none,yes,skilled employee,1
+unknown,36,delayed,car (used),8947,unknown,4 - 7 yrs,3,single male,none,2,other,31,stores,own,1,2,yes,yes,mangement self-employed,0
+< 0 DM,48,fully repaid,car (used),4605,< 100 DM,> 7 yrs,3,single male,none,4,unknown/none,24,none,for free,2,2,none,yes,skilled employee,1
+unknown,60,repaid,car (new),6527,unknown,1 - 4 yrs,4,single male,none,4,unknown/none,34,none,for free,1,2,yes,yes,skilled employee,0
+unknown,21,fully repaid,car (new),5003,unknown,1 - 4 yrs,1,female,none,4,building society savings,29,bank,own,2,1,yes,yes,skilled employee,1
+< 0 DM,12,fully repaid this bank,radio/tv,2149,< 100 DM,1 - 4 yrs,4,divorced male,none,1,unknown/none,29,none,for free,1,1,none,yes,skilled employee,1
+unknown,14,delayed,car (new),802,< 100 DM,1 - 4 yrs,4,single male,none,2,other,27,none,own,2,1,none,yes,unskilled resident,0
+unknown,24,repaid,car (used),3488,101 - 500 DM,4 - 7 yrs,3,female,none,4,other,23,none,own,1,1,none,yes,skilled employee,0
+1 - 200 DM,7,repaid,radio/tv,2576,< 100 DM,1 - 4 yrs,2,single male,guarantor,2,real estate,35,none,own,1,1,none,yes,skilled employee,0
+unknown,24,critical,furniture,1585,< 100 DM,4 - 7 yrs,4,single male,none,3,building society savings,40,none,own,2,1,none,yes,skilled employee,0
+1 - 200 DM,45,repaid,radio/tv,3031,101 - 500 DM,1 - 4 yrs,4,single male,guarantor,4,building society savings,21,none,rent,1,1,none,yes,skilled employee,1
+< 0 DM,24,delayed,radio/tv,1024,< 100 DM,0 - 1 yrs,4,married male,none,4,real estate,48,stores,own,1,1,none,yes,skilled employee,1
+< 0 DM,20,critical,furniture,4272,< 100 DM,> 7 yrs,1,female,none,4,building society savings,24,none,own,2,1,none,yes,skilled employee,0
+> 200 DM,18,repaid,furniture,3049,< 100 DM,0 - 1 yrs,1,female,none,1,building society savings,45,stores,own,1,1,none,yes,unskilled resident,0
+unknown,30,fully repaid this bank,car (used),7485,unknown,unemployed,4,female,none,1,real estate,53,bank,own,1,1,yes,yes,mangement self-employed,1
+< 0 DM,12,fully repaid,radio/tv,6199,< 100 DM,1 - 4 yrs,4,single male,none,2,building society savings,28,none,rent,2,1,yes,yes,skilled employee,1
+< 0 DM,48,repaid,car (new),3931,< 100 DM,4 - 7 yrs,4,single male,none,4,unknown/none,46,none,for free,1,2,none,yes,skilled employee,1
+unknown,4,critical,car (new),3380,< 100 DM,4 - 7 yrs,1,female,none,1,real estate,37,none,own,1,2,none,yes,skilled employee,0
+unknown,12,repaid,car (used),2445,unknown,0 - 1 yrs,2,married male,none,4,other,26,none,rent,1,1,yes,yes,skilled employee,0
+> 200 DM,12,critical,car (new),939,501 - 1000 DM,4 - 7 yrs,4,married male,none,2,real estate,28,none,own,3,1,yes,yes,skilled employee,1
+unknown,24,repaid,car (new),1469,101 - 500 DM,> 7 yrs,4,married male,none,4,real estate,41,none,rent,1,1,none,yes,unskilled resident,0
+1 - 200 DM,36,delayed,car (new),7432,< 100 DM,1 - 4 yrs,2,female,none,2,building society savings,54,none,rent,1,1,none,yes,skilled employee,0
+1 - 200 DM,12,critical,car (used),1860,< 100 DM,unemployed,4,single male,none,2,other,34,none,own,2,1,yes,yes,mangement self-employed,0
+unknown,18,repaid,radio/tv,1473,< 100 DM,0 - 1 yrs,3,married male,none,4,real estate,39,none,own,1,1,yes,yes,skilled employee,0
+1 - 200 DM,24,delayed,business,6967,101 - 500 DM,4 - 7 yrs,4,single male,none,4,other,36,none,rent,1,1,yes,yes,mangement self-employed,0
+unknown,48,repaid,business,3914,unknown,1 - 4 yrs,4,divorced male,none,2,real estate,38,bank,own,1,1,none,yes,skilled employee,1
+unknown,6,repaid,education,1538,< 100 DM,0 - 1 yrs,1,female,none,2,unknown/none,56,none,own,1,1,none,yes,skilled employee,0
+unknown,54,fully repaid,car (used),9436,unknown,1 - 4 yrs,2,single male,none,2,building society savings,39,none,own,1,2,none,yes,unskilled resident,0
+1 - 200 DM,15,repaid,car (new),2631,101 - 500 DM,1 - 4 yrs,2,female,none,4,other,28,none,rent,2,1,yes,yes,skilled employee,1
+unknown,48,fully repaid this bank,business,3609,< 100 DM,1 - 4 yrs,1,female,none,1,real estate,27,stores,own,1,1,none,yes,skilled employee,0
+unknown,24,repaid,radio/tv,3181,< 100 DM,0 - 1 yrs,4,female,none,4,building society savings,26,none,own,1,1,yes,yes,skilled employee,0
+unknown,24,critical,radio/tv,1516,> 1000 DM,1 - 4 yrs,4,female,none,1,real estate,43,none,own,2,1,none,yes,unskilled resident,0
+unknown,27,critical,furniture,4526,> 1000 DM,0 - 1 yrs,4,single male,none,2,real estate,32,stores,own,2,2,yes,yes,unskilled resident,0
+1 - 200 DM,6,repaid,radio/tv,368,unknown,> 7 yrs,4,single male,none,4,building society savings,38,none,own,1,1,none,yes,skilled employee,0
+unknown,15,repaid,radio/tv,3568,< 100 DM,> 7 yrs,4,female,none,2,other,54,bank,rent,1,1,yes,yes,mangement self-employed,0
+< 0 DM,6,critical,furniture,3384,< 100 DM,1 - 4 yrs,1,divorced male,none,4,real estate,44,none,rent,1,1,yes,yes,mangement self-employed,1
+< 0 DM,18,repaid,furniture,4153,< 100 DM,1 - 4 yrs,2,single male,co-applicant,3,other,42,none,own,1,1,none,yes,skilled employee,1
+< 0 DM,36,repaid,furniture,3446,< 100 DM,> 7 yrs,4,single male,none,2,other,42,none,own,1,2,none,yes,skilled employee,1
+unknown,30,critical,car (used),7596,unknown,> 7 yrs,1,single male,none,4,other,63,none,own,2,1,none,yes,skilled employee,0
+unknown,21,delayed,business,2580,501 - 1000 DM,0 - 1 yrs,4,single male,none,2,real estate,41,bank,own,1,2,none,yes,unskilled resident,1
+> 200 DM,6,critical,car (new),1343,< 100 DM,> 7 yrs,1,single male,none,4,real estate,46,none,own,2,2,none,no,skilled employee,0
+unknown,18,repaid,radio/tv,4594,< 100 DM,0 - 1 yrs,3,single male,none,2,other,32,none,own,1,1,yes,yes,skilled employee,0
+1 - 200 DM,24,critical,education,5743,< 100 DM,0 - 1 yrs,2,female,none,4,unknown/none,24,none,for free,2,1,yes,yes,skilled employee,0
+< 0 DM,24,repaid,furniture,4020,< 100 DM,1 - 4 yrs,2,single male,none,2,other,27,stores,own,1,1,none,yes,skilled employee,0
+unknown,24,critical,education,1927,unknown,1 - 4 yrs,3,female,none,2,other,33,none,own,2,1,yes,yes,skilled employee,0
+1 - 200 DM,36,delayed,car (new),2862,101 - 500 DM,> 7 yrs,4,single male,none,3,unknown/none,30,none,for free,1,1,none,yes,skilled employee,0
+1 - 200 DM,9,repaid,radio/tv,458,< 100 DM,1 - 4 yrs,4,single male,none,3,real estate,24,none,own,1,1,none,yes,skilled employee,0
+unknown,18,critical,radio/tv,1582,> 1000 DM,> 7 yrs,4,single male,none,4,other,46,none,own,2,1,none,yes,skilled employee,0
+unknown,15,repaid,car (used),3029,< 100 DM,4 - 7 yrs,2,single male,none,2,other,33,none,own,1,1,none,yes,skilled employee,0
+< 0 DM,36,critical,furniture,6229,< 100 DM,0 - 1 yrs,4,female,co-applicant,4,unknown/none,23,none,rent,2,1,yes,yes,unskilled resident,1
+unknown,36,critical,radio/tv,9566,< 100 DM,1 - 4 yrs,2,female,none,2,other,31,stores,own,2,1,none,yes,skilled employee,0
+< 0 DM,24,critical,car (used),6615,< 100 DM,unemployed,2,single male,none,4,unknown/none,75,none,for free,2,1,yes,yes,mangement self-employed,0
+1 - 200 DM,30,critical,car (new),4249,< 100 DM,unemployed,4,married male,none,2,other,28,none,own,2,1,none,yes,mangement self-employed,1
+1 - 200 DM,39,delayed,education,11760,101 - 500 DM,4 - 7 yrs,2,single male,none,3,unknown/none,32,none,rent,1,1,yes,yes,skilled employee,0
+1 - 200 DM,30,repaid,furniture,3441,101 - 500 DM,1 - 4 yrs,2,female,co-applicant,4,other,21,none,rent,1,1,none,yes,skilled employee,1
+< 0 DM,18,repaid,furniture,1131,< 100 DM,unemployed,4,female,none,2,other,33,none,own,1,1,none,yes,skilled employee,1
+unknown,15,delayed,furniture,960,> 1000 DM,4 - 7 yrs,3,female,none,2,building society savings,30,none,own,2,1,none,yes,skilled employee,0
+unknown,24,repaid,furniture,5511,101 - 500 DM,1 - 4 yrs,4,single male,none,1,other,25,stores,own,1,1,none,yes,skilled employee,0
+> 200 DM,36,repaid,radio/tv,4210,< 100 DM,1 - 4 yrs,4,single male,none,2,other,26,none,own,1,1,none,yes,skilled employee,1
+< 0 DM,42,repaid,radio/tv,3965,< 100 DM,0 - 1 yrs,4,single male,none,3,other,34,none,own,1,1,none,yes,skilled employee,1
+1 - 200 DM,36,repaid,car (new),14318,< 100 DM,> 7 yrs,4,single male,none,2,unknown/none,57,none,for free,1,1,yes,yes,mangement self-employed,1
+1 - 200 DM,30,critical,car (new),5234,< 100 DM,unemployed,4,married male,none,2,other,28,none,own,2,1,none,yes,mangement self-employed,1
+< 0 DM,12,repaid,domestic appliances,741,101 - 500 DM,unemployed,4,female,none,3,building society savings,22,none,own,1,1,none,yes,skilled employee,1
+> 200 DM,9,repaid,radio/tv,1126,101 - 500 DM,> 7 yrs,2,divorced male,none,4,real estate,49,none,own,1,1,none,yes,skilled employee,0
+1 - 200 DM,21,critical,business,3652,< 100 DM,4 - 7 yrs,2,single male,none,3,building society savings,27,none,own,2,1,none,yes,skilled employee,0
+unknown,12,fully repaid,furniture,2759,< 100 DM,> 7 yrs,2,single male,none,4,building society savings,34,none,own,2,1,none,yes,skilled employee,0
+unknown,12,repaid,car (new),1101,< 100 DM,1 - 4 yrs,3,married male,none,2,real estate,27,none,own,2,1,yes,yes,skilled employee,0
